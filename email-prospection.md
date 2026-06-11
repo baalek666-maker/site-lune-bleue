@@ -1,39 +1,42 @@
 # Email de prospection — Lune Bleue (Héloïse Boussemart)
 
 **À :** lunebleue.boussemart@gmail.com
-**Objet :** J'ai cherché un naturopathe à Annecy pour une amie… je ne vous ai pas trouvée
+**Objet :** Votre cabinet mérite un site à la hauteur de votre approche 🌿
 
 ---
 
 Bonjour Héloïse,
 
-Je m'appelle Yoan, je vis à Annecy et je crée des sites vitrines pour les thérapeutes et artisans du bien-être.
+Je me permets de vous écrire car je connais Lune Bleue — pas seulement de nom, mais parce que j'ai découvert votre travail sur Instagram et les avis de vos patientes sur PagesJaunes. Votre méthode "mieux se connaître pour mieux se soigner", votre rigueur sur les hormones et le cycle féminin, c'est rare. Et c'est exactement le genre de qualité qui mérite d'être visible en ligne.
 
-L'autre jour, une amie me cherchait une naturopathe à Annecy. Des règles douloureuses, un SPM qui l'épuise. Elle a tapé "naturopathe Annecy hormones" sur Google.
+Aujourd'hui, quand une femme tape « naturopathe Annecy hormones » sur Google, elle tombe sur des annuaires génériques. Pas sur vous. Vous avez Instagram, PagesJaunes — mais pas de vraie page qui raconte ce que vous faites, qui rassure, qui donne envie de prendre rendez-vous.
 
-Elle est tombée sur trois PagesJaunes, deux annuaires, et un site d'un concurrent à Annecy-le-Vieux. Elle ne vous a pas trouvée.
+Entre nous — c'est une opportunité.
 
-Pourtant votre approche — santé féminine, hormones, accompagnement naturel — c'est exactement ce qu'elle cherchait.
+J'ai créé pour vous un site vitrine sur-mesure, pensé pour Lune Bleue :
 
-Je suis allé voir votre Instagram. J'ai trouvé vos coordonnées sur PagesJaunes. Mais pas de site. Pas de page qui raconte ce que vous faites, qui rassure, qui donne envie de prendre rendez-vous.
+• **Votre approche en 4 piliers mise en avant** — Écoute du terrain, stratégie nutritionnelle, botanique ciblée, gestion du stress. Chaque étape a sa place.
+• **Vos spécialités clairement identifiées** — Règles douloureuses, SPM, ménopause, fertilité. La patiente sait immédiatement si vous l'aidez.
+• **Un design doux et naturel** — Pas un template froid, une vraie identité qui respire le bien-être et la bienveillance.
+• **Optimisé pour Google et mobile** — Vos futures patientes vous trouvent en deux clics, même à 23 h quand la douleur les réveille.
+• **Vos coordonnées et prise de contact** — Téléphone, email, adresse. Plus besoin de chercher.
 
-Alors j'ai fait un essai.
-
-Rien d'offensif, juste une page propre, sobre, comme je voudrais en trouver si j'étais votre patiente :
+Le site est prêt. Il est moderne, rapide, et il vous ressemble. Vous pouvez le voir ici dès maintenant :
 
 → [https://baalek666-maker.github.io/site-lune-bleue/](https://baalek666-maker.github.io/site-lune-bleue/)
 
-Évidemment, ce n'est pas le vôtre. Les photos ne sont pas vous. Le texte, je l'ai imaginé. Mais ça donne une idée.
+**Ce que je vous propose :**
 
-Si ça vous parle — si vous vous dites qu'avoir une vraie présence en ligne vous aiderait à accueillir les femmes qui cherchent exactement ce que vous proposez — on peut en parler.
+Vous prenez le site clé en main. Je m'occupe de tout — design, hébergement, nom de domaine si vous le souhaitez, mises à jour. Vous n'avez rien à gérer de technique.
 
-Pas de frais d'entrée, pas d'engagement long. 99 € par mois, j'héberge, je mets à jour, vous ne touchez à rien. Préavis de 60 jours si un jour ça ne vous convient plus.
+On en discute cinq minutes par téléphone ? Ça m'intéresse de comprendre ce qui vous ferait passer le cap.
 
-Et si ce n'est pas le bon moment, ou si vous préférez rester comme vous êtes, je comprends tout à fait. C'est juste une proposition.
-
-Bonne journée,
+Bien cordialement,
 
 Yoan
 Annecy
+06 74 72 24 19 *(exemple — à remplacer par votre vrai numéro)*
 
-P.S. : Le site est une démo, il ne collecte aucune donnée. Il disparaît si vous dites non.
+test@example.com *(à remplacer)*
+
+P.S. — « Chaque cycle est une feuille de route. » Vous l'avez dit. Un site web, c'est exactement ça : donner à vos patientes la carte pour se retrouver.
